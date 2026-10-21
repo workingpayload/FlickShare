@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed (Material You) icon layer: the launcher tints this, only alpha matters. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <path
+        android:pathData="M36.54,79.85L44.49,67.13"
+        android:strokeWidth="4.5"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M47.35,79.53L52.65,71.05"
+        android:strokeWidth="3.6"
+        android:strokeColor="#B3FFFFFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M32.73,72.74L39.09,62.57"
+        android:strokeWidth="3.6"
+        android:strokeColor="#B3FFFFFF"
+        android:strokeLineCap="round" />
+
+    <group
+        android:rotation="32"
+        android:translateX="57"
+        android:translateY="49">
+        <path
+            android:fillColor="#59FFFFFF"
+            android:pathData="M-7,-17H7A6,6 0,0 1,13 -11V11A6,6 0,0 1,7 17H-7A6,6 0,0 1,-13 11V-11A6,6 0,0 1,-7 -17Z" />
+        <path
+            android:pathData="M-7,-16H7A5,5 0,0 1,12 -11V11A5,5 0,0 1,7 16H-7A5,5 0,0 1,-12 11V-11A5,5 0,0 1,-7 -16Z"
+            android:strokeWidth="2"
+            android:strokeColor="#FFFFFFFF" />
+        <path
+            android:pathData="M0,9V-7M-6,-1L0,-7L6,-1"
+            android:strokeWidth="3.4"
+            android:strokeColor="#FFFFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M79,31.5Q79.9,36.8 85,37.5Q79.9,38.2 79,43.5Q78.1,38.2 73,37.5Q78.1,36.8 79,31.5Z" />
+</vector>

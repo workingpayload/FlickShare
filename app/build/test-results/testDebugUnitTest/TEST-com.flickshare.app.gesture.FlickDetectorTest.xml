@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.flickshare.app.gesture.FlickDetectorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-21T22:53:30.705Z" hostname="RAJ" time="0.003">
+  <properties/>
+  <testcase name="rearmingWithSameModeKeepsArmDelayStart" classname="com.flickshare.app.gesture.FlickDetectorTest" time="0.001"/>
+  <testcase name="handsFreeIgnoresHoldStrengthFlick" classname="com.flickshare.app.gesture.FlickDetectorTest" time="0.0"/>
+  <testcase name="handsFreeIgnoresMotionRightAfterArming" classname="com.flickshare.app.gesture.FlickDetectorTest" time="0.0"/>
+  <testcase name="handsFreeFiresOnConsecutiveStrongSamples" classname="com.flickshare.app.gesture.FlickDetectorTest" time="0.0"/>
+  <testcase name="ignoresSamplesWhenDisarmed" classname="com.flickshare.app.gesture.FlickDetectorTest" time="0.001"/>
+  <testcase name="handsFreeIgnoresSingleSpike" classname="com.flickshare.app.gesture.FlickDetectorTest" time="0.0"/>
+  <testcase name="respectsCooldownAfterThrow" classname="com.flickshare.app.gesture.FlickDetectorTest" time="0.0"/>
+  <testcase name="disarmsAfterFiring" classname="com.flickshare.app.gesture.FlickDetectorTest" time="0.0"/>
+  <testcase name="holdModeFiresOnSingleSampleOverThreshold" classname="com.flickshare.app.gesture.FlickDetectorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

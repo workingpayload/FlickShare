@@ -1,0 +1,7 @@
+com.flickshare.app-updated_navigation_xml-0 C:\Users\rs919\Documents\Quick Throw\android-client\app\build\generated\updated_navigation_xml\release
+com.flickshare.app-packageReleaseResources-1 C:\Users\rs919\Documents\Quick Throw\android-client\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.flickshare.app-packageReleaseResources-2 C:\Users\rs919\Documents\Quick Throw\android-client\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.flickshare.app-release-3 C:\Users\rs919\Documents\Quick Throw\android-client\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.flickshare.app-main-4 C:\Users\rs919\Documents\Quick Throw\android-client\app\src\main\res
+com.flickshare.app-release-5 C:\Users\rs919\Documents\Quick Throw\android-client\app\src\release\res
+gradleHome-0 C:\Users\rs919\.gradle

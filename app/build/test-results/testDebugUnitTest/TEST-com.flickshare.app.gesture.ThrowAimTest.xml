@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.flickshare.app.gesture.ThrowAimTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-21T22:53:30.710Z" hostname="RAJ" time="0.002">
+  <properties/>
+  <testcase name="compassTurningLeftToFaceThePcMeansYouStandOnTheRight" classname="com.flickshare.app.gesture.ThrowAimTest" time="0.001"/>
+  <testcase name="wristFlickWorksFlatOrUpright" classname="com.flickshare.app.gesture.ThrowAimTest" time="0.001"/>
+  <testcase name="flingUpAndRightLandsOnTheRight" classname="com.flickshare.app.gesture.ThrowAimTest" time="0.0"/>
+  <testcase name="flingFollowsTheDragPathWhenTheThumbCurlsOnRelease" classname="com.flickshare.app.gesture.ThrowAimTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

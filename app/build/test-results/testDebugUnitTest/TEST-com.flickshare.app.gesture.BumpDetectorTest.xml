@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.flickshare.app.gesture.BumpDetectorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-21T22:53:30.692Z" hostname="RAJ" time="0.011">
+  <properties/>
+  <testcase name="vigorousShakingDoesNotFire" classname="com.flickshare.app.gesture.BumpDetectorTest" time="0.004"/>
+  <testcase name="ignoresKnocksRightAfterArming" classname="com.flickshare.app.gesture.BumpDetectorTest" time="0.0"/>
+  <testcase name="tripleKnockDoesNotFire" classname="com.flickshare.app.gesture.BumpDetectorTest" time="0.0"/>
+  <testcase name="doubleKnockFiresOnceAndDisarms" classname="com.flickshare.app.gesture.BumpDetectorTest" time="0.0"/>
+  <testcase name="motionBetweenKnocksDoesNotFire" classname="com.flickshare.app.gesture.BumpDetectorTest" time="0.0"/>
+  <testcase name="disarmedDetectorIgnoresKnocks" classname="com.flickshare.app.gesture.BumpDetectorTest" time="0.0"/>
+  <testcase name="singleKnockLikeSettingPhoneDownDoesNotFire" classname="com.flickshare.app.gesture.BumpDetectorTest" time="0.001"/>
+  <testcase name="knocksTooFarApartDoNotFire" classname="com.flickshare.app.gesture.BumpDetectorTest" time="0.0"/>
+  <testcase name="laterKnockAfterTimeoutStartsANewDoubleKnock" classname="com.flickshare.app.gesture.BumpDetectorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
